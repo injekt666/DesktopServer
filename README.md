@@ -1,0 +1,1 @@
+A basic HTTP webserver designed to run on Windows 9X that serves up a screenshot of the users desktop. This enabled screencasting before it was cool!
